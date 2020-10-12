@@ -1,5 +1,5 @@
 {
-  "name": "MSSQLProject",
+  "name": "nodejs-mssql",
   "version": "1.0.0",
   "description": "Connecting Nodejs to Microsoft SQL Server",
   "main": "app.js",
